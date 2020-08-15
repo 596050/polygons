@@ -1,0 +1,10 @@
+{
+  "name": "polygons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:596050/polygons.git",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
